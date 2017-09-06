@@ -32,7 +32,7 @@ public class poseController : MonoBehaviour {
 	public void esticaPernaFrente( ){
 		//*
 		if (pernaFrente == false) {
-			JointSpring springJ1 = rb1.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = 0;
+			JointSpring springJ1 = rb1.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = -45;
 				rb1.GetComponent<HingeJoint>().spring = springJ1;
 			JointSpring springJ2 = rb2.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = 0;
 				rb2.GetComponent<HingeJoint>().spring = springJ2;
@@ -53,7 +53,7 @@ public class poseController : MonoBehaviour {
 	public void esticaPernaTras( ){
 
 		if (pernaTras == false) {
-			JointSpring springJ1 = rb4.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = 0;
+			JointSpring springJ1 = rb4.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = -45;
 			rb4.GetComponent<HingeJoint>().spring = springJ1;
 			JointSpring springJ2 = rb5.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = 0;
 			rb5.GetComponent<HingeJoint>().spring = springJ2;

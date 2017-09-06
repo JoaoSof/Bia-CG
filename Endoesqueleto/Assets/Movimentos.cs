@@ -40,19 +40,27 @@ public class Movimentos : MonoBehaviour {
 
 	public void socarLateralmente(){
 		if(s == true){
+			rb1.GetComponent<HingeJoint>().axis = new Vector3(0f, 0f, 1f);
 			JointSpring springJ1 = rb1.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = 100;
 			rb1.GetComponent<HingeJoint>().spring = springJ1;
+			rb2.GetComponent<HingeJoint>().axis = new Vector3(1f, 0f, 0f);
 			JointSpring springJ2 = rb2.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = 45;
 			rb2.GetComponent<HingeJoint>().spring = springJ2;
+			rb3.GetComponent<HingeJoint>().axis = new Vector3(1f, 0f, 0f);
 			JointSpring springJ3 = rb3.GetComponent<HingeJoint> ().spring; springJ3.targetPosition = 45;
 			rb3.GetComponent<HingeJoint>().spring = springJ3;
+			print ("Soco lateral direito");
 		}else{
+			rb1.GetComponent<HingeJoint>().axis = new Vector3(0f, 0f, 1f);
 			JointSpring springJ1 = rb1.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = 0;
 			rb1.GetComponent<HingeJoint>().spring = springJ1;
+			rb2.GetComponent<HingeJoint>().axis = new Vector3(1f, 0f, 0f);
 			JointSpring springJ2 = rb2.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = 0;
 			rb2.GetComponent<HingeJoint>().spring = springJ2;
+			rb3.GetComponent<HingeJoint>().axis = new Vector3(1f, 0f, 0f);
 			JointSpring springJ3 = rb3.GetComponent<HingeJoint> ().spring; springJ3.targetPosition = 0;
 			rb3.GetComponent<HingeJoint>().spring = springJ3;
+			print ("");
 		}
 		s = !s;
 	}
@@ -65,6 +73,7 @@ public class Movimentos : MonoBehaviour {
 			rb2.GetComponent<HingeJoint>().axis = new Vector3(0f, 0f, 1f);
 			JointSpring springJ2 = rb2.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = 120;
 			rb2.GetComponent<HingeJoint>().spring = springJ2;
+			print ("Batendo Continencia");
 		}else{
 			rb1.GetComponent<HingeJoint>().axis = new Vector3(0f, 0f, 1f);
 			JointSpring springJ1 = rb1.GetComponent<HingeJoint> ().spring; springJ1.targetPosition = -100;
@@ -72,6 +81,7 @@ public class Movimentos : MonoBehaviour {
 			rb2.GetComponent<HingeJoint>().axis = new Vector3(0f, 0f, 1f);
 			JointSpring springJ2 = rb2.GetComponent<HingeJoint> ().spring; springJ2.targetPosition = -120;
 			rb2.GetComponent<HingeJoint>().spring = springJ2;
+			print ("");
 		}
 		c = !c;
 	}
