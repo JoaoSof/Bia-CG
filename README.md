@@ -6,7 +6,7 @@
 			Porteira</h1><>
 			<font face="Lucida Sans Unicode">
 				Esta aplicação simula uma porteira, onde uma bola/personagem se movimenta e 
-			</font>			
+			</font>	escreve bem
 		</li>
 	
 </ol>
