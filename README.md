@@ -2,14 +2,13 @@
 <h3>Todas as aplicações são feitas em Unity 5.6.1f1</h3>
 <ol>
 	<h1>
-		<li>
+		<li >
 			Porteira</h1>
-				Esta aplicação simula uma porteira, onde uma bola/personagem se movimenta e 
-			</p>	escreve bem
+				Esta aplicação simula uma porteira, onde uma bola/personagem se movimenta e escreve bem
 		</li>
 	
 </ol>
-<font face="Arial"> Arial </font> <br />
+<font face="Arial" color="red"> Arial </font> <br />
   <font face="Courier"> Courier </font> <br />
   <font face="Georgia"> Georgia </font> <br />
   <font face="Helvetica"> Helvetica </font> <br />
