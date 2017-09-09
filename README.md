@@ -1,4 +1,5 @@
 # Bia-CG <sup>(Descrição)</sup>
+<html>
 <style>
 p {
     font-family: "Times New Roman", Georgia, Serif;
@@ -15,3 +16,4 @@ p {
 		</li>
 	
 </ol>
+</html>
