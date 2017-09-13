@@ -137,5 +137,4 @@ public class fisica : MonoBehaviour {
 		}
 		teclaIB = !teclaIB;
 	}
-
 }
