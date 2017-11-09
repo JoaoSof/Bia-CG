@@ -1,0 +1,90 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M440 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.165.1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\EasyAR.Unity.dll (this message is harmless)
+Loading C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\EasyAR.Unity.dll into Unity Child Domain
+- Completed reload, in  0.231 seconds
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\josee\Documents\Computação Gráfica\EasyAr_Exemplo\EasyAr_Butterfly_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.009544 ms
+EasyAR Version 1.3.1
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ARBuilder: ImageTracker (EasyAR.ImageTrackerBehaviour) bind CameraDevice (EasyAR.CameraDeviceBehaviour)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Load target (True): 1 (namecard)  -> ImageTracker (EasyAR.ImageTrackerBehaviour)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<Global Handler> Load target (True): 1 (namecard)  -> ImageTracker (EasyAR.ImageTrackerBehaviour)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<Global Handler> Found: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lost: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<Global Handler> Lost: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<Global Handler> Found: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lost: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<Global Handler> Lost: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2634 -> priority: 1 
+<Global Handler> Unload target (True): 1 (namecard)  -> ImageTracker (EasyAR.ImageTrackerBehaviour)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unload target (True): 1 (namecard)  -> ImageTracker (EasyAR.ImageTrackerBehaviour)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

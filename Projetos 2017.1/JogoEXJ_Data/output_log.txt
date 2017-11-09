@@ -1,0 +1,25 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M440 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     4087 MB
+    Driver:   22.19.157.3
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\josee\Desktop\JogoEXJ_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\josee\Desktop\JogoEXJ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\josee\Desktop\JogoEXJ_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\josee\Desktop\JogoEXJ_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
